@@ -1,0 +1,1 @@
+projekt polaczenia do bazy danych
